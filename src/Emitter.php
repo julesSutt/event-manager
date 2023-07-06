@@ -10,8 +10,6 @@
 
 namespace EventManager;
 
-use EventManager\Listener;
-
 /**
  * Event emitter
  * @package : Jules\EventManager
