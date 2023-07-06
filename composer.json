@@ -1,0 +1,21 @@
+{
+    "name": "jules/event-manager",
+    "description": "A lightweight library for simple events management",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jules\\EventManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jules Sutterlin",
+            "email": "jules.sutterlin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8"
+    }
+}
