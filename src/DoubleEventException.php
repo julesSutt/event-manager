@@ -8,7 +8,7 @@
  * @copyright   : (c) Jules Sütterlin - All rights reserved
  */
 
-namespace Jules\EventManager;
+namespace EventManager;
 
 /**
  * Class DoubleEventException

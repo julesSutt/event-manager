@@ -1,11 +1,11 @@
 {
-    "name": "jules/event-manager",
+    "name": "julessutt/event-manager",
     "description": "A lightweight library for simple events management",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Jules\\EventManager\\": "src/"
+            "EventManager\\": "src/"
         }
     },
     "authors": [

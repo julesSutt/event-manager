@@ -1,6 +1,6 @@
 <?php
 
-namespace Jules\EventManager;
+namespace EventManager;
 
 interface SubscriberInterface
 {
